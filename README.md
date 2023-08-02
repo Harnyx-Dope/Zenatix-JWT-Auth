@@ -18,9 +18,11 @@ Steps are as follows:-
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/2435f693-7ae3-4c1f-96b1-f271abcd1e80)
 
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/186a10c5-e519-4ba4-a0f9-0122a597cce8)
-We have token now 
+
+<h3>We have token now </h3>
 
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/cc97062d-9f9e-4cf5-9d61-af4056fe3eb3)
+
 But the interceptor Can also Render that token
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/9c587de8-95f6-4abf-a04e-f8053662b812)
 <h3>Now we will navigate to Event List</h3>
