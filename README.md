@@ -12,10 +12,11 @@ Here are Some  ScreenShots checking and intercepting token:-
 <h3>Creating Super User in DB</h3>
 
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/67be4157-2edf-43a6-8760-abc09c35ca9a)
-<h3>Basically Burp Intercepting so i will ask for token with registered user</h3>
+<h3>Basically  for Burp Intercepting ,i will ask for token with registered user</h3>
 Steps are as follows:-
 
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/2435f693-7ae3-4c1f-96b1-f271abcd1e80)
+
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/186a10c5-e519-4ba4-a0f9-0122a597cce8)
 We have token now 
 
@@ -28,7 +29,7 @@ But the interceptor Can also Render that token
 <h3>It will ask the Interceptor for auth details</h3>
 
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/7cb2d49b-03cf-4cc7-8705-87bef4fa61dd)
-<h2>He Can Change the Payload request from Burp-Suite As Well!!! acting as proxy server</h2>
+<h2>He Can Change the Payload request from Burp-Suite As Well!!! acting as MITM</h2>
 
 ![image](https://github.com/Harnyx-Dope/Zenatix-JWT-Auth/assets/85693353/7e0788c9-5055-4537-8622-e14b21838416)
 <h2>Then, It is accessible and JWT-Auth is Vulnerable</h2>
